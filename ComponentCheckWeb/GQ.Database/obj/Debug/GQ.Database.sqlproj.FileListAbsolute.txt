@@ -3,3 +3,4 @@ F:\成分查项目\ComponentCheckWeb\GQ.Database\bin\Debug\GQ.Database.dll
 F:\成分查项目\ComponentCheckWeb\GQ.Database\bin\Debug\GQ.Database.pdb
 F:\成分查项目\ComponentCheckWeb\GQ.Database\obj\Debug\GQ.Database.dll
 F:\成分查项目\ComponentCheckWeb\GQ.Database\obj\Debug\GQ.Database.pdb
+F:\成分查项目\ComponentCheckWeb\GQ.Database\obj\Debug\GQ.Database.sqlproj.AssemblyReference.cache
