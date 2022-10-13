@@ -1,0 +1,10 @@
+F:\成分查项目\ComponentCheckWeb\GQ.Model\bin\Debug\netcoreapp3.1\GQ.Model.deps.json
+F:\成分查项目\ComponentCheckWeb\GQ.Model\bin\Debug\netcoreapp3.1\GQ.Model.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Model\bin\Debug\netcoreapp3.1\GQ.Model.pdb
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.csproj.AssemblyReference.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.AssemblyInfoInputs.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.AssemblyInfo.cs
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.csproj.CoreCompileInputs.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Model\obj\Debug\netcoreapp3.1\GQ.Model.pdb

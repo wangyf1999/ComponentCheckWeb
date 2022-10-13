@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GQ.Service/1.0.0": {
+        "dependencies": {
+          "GQ.Model": "1.0.0"
+        },
+        "runtime": {
+          "GQ.Service.dll": {}
+        }
+      },
+      "GQ.Model/1.0.0": {
+        "runtime": {
+          "GQ.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GQ.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GQ.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

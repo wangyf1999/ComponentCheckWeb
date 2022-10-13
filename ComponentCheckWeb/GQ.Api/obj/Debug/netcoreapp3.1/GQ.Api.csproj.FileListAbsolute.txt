@@ -1,0 +1,15 @@
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.csproj.AssemblyReference.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.GeneratedMSBuildEditorConfig.editorconfig
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.AssemblyInfoInputs.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.AssemblyInfo.cs
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.csproj.CoreCompileInputs.cache
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Api.deps.json
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Api.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Api.pdb
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Model.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Service.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Service.pdb
+F:\成分查项目\ComponentCheckWeb\GQ.Api\bin\Debug\netcoreapp3.1\GQ.Model.pdb
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.csproj.CopyComplete
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.dll
+F:\成分查项目\ComponentCheckWeb\GQ.Api\obj\Debug\netcoreapp3.1\GQ.Api.pdb
